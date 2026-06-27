@@ -159,8 +159,6 @@ I design and build intelligent software powered by Large Language Models, AI Age
 ### ⚡ Automation
 
 * n8n
-* Zapier
-* Make.com
 * Webhooks
 * API Automation
 * CRM Automation
@@ -388,39 +386,6 @@ Social organization platform connecting volunteers, NGOs, and administrators.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
@@ -465,7 +430,7 @@ Social organization platform connecting volunteers, NGOs, and administrators.
 
 ## 🚀 Building Intelligent Software For The Future
 
-### Full Stack Development • AI Engineering • AI Automation • Agentic AI • Mobile Apps • Cloud Solutions
+### Full Stack Development • Web Developer • AI Automation • Agentic AI • Application Developer • Cloud Solutions
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
 
